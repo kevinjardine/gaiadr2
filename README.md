@@ -1,6 +1,6 @@
 # Gaia DR2 related scripts
 
-This code was used to create the 3D meshes from Gaia DR2 as announced in [A map of the Milky Way out to 3000 parsecs (10 thousand light years)](http://galaxymap.org/drupal/node/255)
+This code was used to create the 3D meshes from [Gaia DR2](https://www.cosmos.esa.int/web/gaia/dr2) as announced in [A map of the Milky Way out to 3000 parsecs (10 thousand light years)](http://galaxymap.org/drupal/node/255)
 
 It is documented across several blog posts linked below.
 
