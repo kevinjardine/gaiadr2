@@ -37,3 +37,9 @@ dr2_make_ranges.py
 dr2_list_ionizing_ranges.py
 
 dr2_make_mesh_sets.py
+
+---
+
+[Making a galaxy map, Part 5: Overlays] (http://galaxymap.org/drupal/node/261)
+
+Adding this blog post reference for completeness although there is currently no relevant code for it in the repository.
