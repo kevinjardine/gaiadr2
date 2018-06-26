@@ -44,4 +44,6 @@ dr2_make_mesh_sets.py
 
 [Making a galaxy map, Part 5: Overlays](http://galaxymap.org/drupal/node/261)
 
-Adding this blog post reference for completeness although there is currently no relevant code for it in the repository.
+[Making a galaxy map, Part 6: Resources](http://galaxymap.org/drupal/node/262)
+
+Adding these related blog post references for completeness.
